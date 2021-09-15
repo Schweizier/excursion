@@ -1,3 +1,36 @@
+* {
+  border: 1px solid red;
+  box-sizing: border-box;
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1,
+h2 {
+  color: white;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
 p {
-  color: green;
+  font-size: 21px;
+}
+
+a {
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+footer {
+  text-align: right;
+  color: gray;
 }
