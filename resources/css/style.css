@@ -1,5 +1,5 @@
 * {
-  border: 1px solid red;
+  /*border: 1px solid red;*/
   box-sizing: border-box;
   background-color: black;
   text-align: center;
@@ -23,6 +23,7 @@ h2 {
 
 p {
   font-size: 21px;
+  color: gray;
 }
 
 a {
@@ -30,7 +31,15 @@ a {
   color: Aquamarine;
 }
 
+video,
+img {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
+
 footer {
   text-align: right;
   color: gray;
+  margin-top: 20px;
 }
